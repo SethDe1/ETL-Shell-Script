@@ -16,13 +16,3 @@ How to run
 Notes: if you don't hit Y on the prompt it will give and error becuase it can't overwite the source file. 
 This was left in so I could repeatedly check the output of the report files
 PS: Enjoy!
-⠀            ＿＿
-　　　　　／＞　　フ
-　　　　　| 　_　 _ l
-　 　　　／` ミ＿x ノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
